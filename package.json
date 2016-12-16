@@ -1,0 +1,12 @@
+{
+  "name": "intervall",
+  "description": "Timerloop",
+  "author": "Infotek Software",
+  "main": "intervall.js",
+  "scripts": {
+    "start": "node intervall.js"
+  },
+  "dependencies": {
+  
+  }
+}
