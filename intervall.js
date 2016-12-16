@@ -1,1 +1,1 @@
-﻿setInterval(function () { console.log(process.pid +": " + new Date()); }, 1000);
+﻿setInterval(function () { this._stdout.write(process.pid + ": " + new Date()); }, 1000);
